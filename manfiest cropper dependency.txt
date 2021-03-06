@@ -1,0 +1,11 @@
+  //manjinderSir
+    implementation 'com.github.manjhi:util_repo:0.1.2'
+
+
+//mainfiest
+  <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat"/>
+
+//image croper
+
+    api 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
